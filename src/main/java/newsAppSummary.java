@@ -10,8 +10,6 @@ public class myConstants {
   static String articlesList = document.getElementById('articles');
   static String articleContent = document.getElementById('article-content');
   static String button = document.getElementById('go-back');
-   
-  
 }
 
 
